@@ -1,10 +1,4 @@
-## Hi I'm Daniel 👋
-
-📚 Third year Mathematics and Statistics student at Durham University.
-
-🌱 I'm currently learning Python and SQL.
-
-🔭 I’m currently working on CS50 for SQL, roulette strategy project, data structures and algorithms. 
+## Junior Quant @ corfinancial
 
 <!--
 **danielyeoman04/danielyeoman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
